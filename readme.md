@@ -13,7 +13,7 @@ After you install the extension and enter your email every time you navigate to 
 Chrome store doesn't allow distributing private extensions and this one is really not for public eyes :-) so the installation process is as follows
 
 1. Download this code in a .zip fil
-![Download extension](../github-assets/download-extension.gif)
+![Download extension](./github-assets/download-extension.gif)
 
 2. Unzip it into any folder you like
 
