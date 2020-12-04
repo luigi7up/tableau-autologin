@@ -10,6 +10,7 @@ let timer = setInterval(function(){
   if(match_object){
     // Since there's no real document ready wait a bit for the page to render
     setTimeout(() => { onDocumentReady(); }, 1500); 
+  }
   
 }, 1000)
 
